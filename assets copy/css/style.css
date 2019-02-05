@@ -81,7 +81,9 @@ footer {
   border: 1px solid goldenrod;
   text-align: center;
   margin-top: 65px;
-  position: relative;
+ position:fixed;
+ bottom:0;
+ left:0;
 }
 #copyright{
   color:rgb(134, 3, 3);
